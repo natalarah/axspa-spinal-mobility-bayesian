@@ -1,0 +1,76 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Datos sensibles
+*.xlsx
+*.c3d
+*.zip
+
+# Modelos pesados
+*.rds
+*.RDataTmp*
+
+# Archivos generados
+Data/Movimientos_Pacientes_Sanos/
+Data/Data_Pacientes_Sanos/
+
+# PDFs de literatura
+*.pdf
+
+# Otros
+Link To Pay.pdf
+
+# Literatura y recursos externos
+*.jpg
+*.png
+*.webp
+*.svg
+*.eps
+*.pfb
+*.tfm
+*.vf
+*.enc
+*.fd
+*.map
+*.dtx
+*.fdd
+*.sty
+*.bst
+*.cls
+*.aux
+*.bbl
+*.blg
+*.log
+*.pag
+*.synctex
+*.tex
+*.bib
+*.ipynb
+*.c3d
+*.csv.bak
+
+# Carpetas innecesarias
+AMA-stix_New/
+Bayesian/
+Bayesian Modeling*/
+Data/Data_Pacientes_Sanos/
+Data/Movimientos_Pacientes_Sanos/
+
+# Archivos de trabajo no necesarios
+Data_Extract.R
+MULTICOL.R
+data3d.R
+data3d.ipynb
+Results.ipynb
+BASMI.Rmd
+PCA_Analysis.Rmd
+PCA_Analysis.html
+Exporatory_Analysis.Rmd
+Exporatory_Analysis.html
+Data_Modeling.html
+biblio.bib
+LICENSE
+
+*.xlsx
